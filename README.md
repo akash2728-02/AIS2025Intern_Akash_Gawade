@@ -1,6 +1,6 @@
 # AIS2025Intern_Akash_Gawade
-Task 1
--1) Dictionary:
+# Task 1
+1) Dictionary:
   - Creating a Dictionary and Running basic Algorithms like Finding length, Data types, Adding different data types Like Integer, Float, boolean, String, etc.
 2) LIst :
   - Creating list and running a basic algorithm. Modifying elements
@@ -43,31 +43,33 @@ Task 1
 	    Def : Number in the form of a+bj where a is real part and the b is imaginary part
 
 
-Task 2:
--1) For Loop:
+# Task 2:
+1) For Loop:
 - for loop is used for do iterstion overe a specific sequence
-2)If else :
-  -  
-if else is condiation al satetment that allows user to set the a condition for iteartion.
-This csontain two part of code 1 st one is 'if' and 2nd is 'else'.
+
+2) If else :
+- if else is condiation al satetment that allows user to set the a condition for iteartion.
+This contain two part of code 1 st one is 'if' and 2nd is 'else'.
 If the first condition Is False then iteration forwarded two else condition.
+
 3) Exapmle :
 - Given a list, write a Python code to swap first and last element of the list.
 
 write code count lenght of string
 
 Write a Python program to get the sum of a only non-negative integer. ex, [1,4,-5,-20,10] ans is 15
-
 write code of factorial , ex.ans 6 (321)
+
+
 4) While loop :
 - In While loop, iteration done upto unknown limitaion with condition for stoping the itearation. We dont perfectly where the iteration can be done.
 - #1)odd-even using while loop 
-#2) using while
-* 
-* *
-* * *
-* * * *
-* * * * *
-#3) creat list 1-20 numbers list using while loop=> [1,2,3... 20]
-#4)  creat list 20-1 (revers order) using while loop=> [20,19...1]
-#5) try with one any eg. break, contnue , pass control statement
+- 2) using while
+	* 
+	* *
+	* * *
+	* * * *
+	* * * * *
+- 3) creat list 1-20 numbers list using while loop=> [1,2,3... 20]
+- 4)  creat list 20-1 (revers order) using while loop=> [20,19...1]
+- 5) try with one any eg. break, contnue , pass control statement
