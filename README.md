@@ -109,4 +109,6 @@ Pandas :
  * Merging and Joining
  * File input Output
 
-* 
+* Basic Plots
+
+  
