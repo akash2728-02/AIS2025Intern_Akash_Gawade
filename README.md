@@ -73,3 +73,40 @@ write code of factorial , ex.ans 6 (321)
 - 3) creat list 1-20 numbers list using while loop=> [1,2,3... 20]
 - 4)  creat list 20-1 (revers order) using while loop=> [20,19...1]
 - 5) try with one any eg. break, contnue , pass control statement
+# Task 3
+1) Def:
+  * def is helps to make user defined function . Containning the code of block with name of function
+* Some Example
+# Task 4
+1) Numpy
+* NumPy library provides the mathematical operation at once on the array for computation, it is Used for linear algebra, random number generation , and many more. Numpy provides support for large multi-dimensional array and matrices, which are important for scientific computation. It is faster than did the operation on the Python list. It also works with libraries such as Pandas, Matplotlib , Scipy, etc.
+* Ceating arrays
+* Arithmetic Operations
+* Indexing and Slicing
+* Shape and reshape
+* Broadcasting
+* Array manipulation
+* Mthematical Functions
+* Statistical Fun
+* Linear Algebra fun
+* Random Number Genration
+* Sampling and Resampling
+
+# Task 5
+Pandas :
+	* Pandas is the powerfull tool in the python . Pandas provide different data structures like series and dataframe. series is the 1D array and datafram is the 2D data table like Excel Spreadshit. We can spliit the data by indexing using integer , We can split the specific column of the data for special operations
+	Pandas done manipulation of data
+	Cleaning of data
+	Data analysis
+	We can explore the data
+ * Data Structure
+ * Series
+ * DataFrame
+ * Data Preprocessing
+ * Oprations on Columns
+ * Filtering
+ * Aggregation and  Grouping
+ * Merging and Joining
+ * File input Output
+
+* 
