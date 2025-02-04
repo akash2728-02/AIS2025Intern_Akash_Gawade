@@ -108,7 +108,33 @@ Pandas :
  * Aggregation and  Grouping
  * Merging and Joining
  * File input Output
+ * Basic Plots
+# Task 6
+Matplot:
+* In python matplot library used for basic Visualiztion
+Marplotlib itegrate with other libraries in the python such as Numpy , Pandas ,Scipy.
+Matplot have many varieties in the graphs auch as Line, Scatter Histogram ,Bar chart, pie chart , joit graph and many more
+Matplotlib was originally written by John D. Hunter. Since then it has had an active development community and is distributed under a BSD-style license.
+  * we discussed some types og Graph
+	  * Line Plot(With marker
+ 	  *  Scatter Pliot
+   	  * Histogram (with grid, color )
+    	  * Bar Plot
+    		* Vertical
+        	* Horizonatl
+          * Box Plot
+          * Pie chart (with modification)
+          *  Subplots (Vertical and Horizontal)
+Seaborn :
+*Statistically more important¶
+For Advanced Visualization we use the Seaborn library
+Seaborn esxcel at creting plots that incorporate the statistical elements, like confidence interal
+Variuos Plot like ,matrix , relational,Distributional,joint
 
-* Basic Plots
-
-  
+  	  *  Heatmap
+          * Pairplots (using built in data set 'iris and self genrated data)
+          * Voilin plot using 'tips' data
+          * Distribution plots (KDE plots)
+          * Joit Plots ( SelfGenrated data and Random data )
+      	
+      
