@@ -136,5 +136,16 @@ Variuos Plot like ,matrix , relational,Distributional,joint
           * Voilin plot using 'tips' data
           * Distribution plots (KDE plots)
           * Joit Plots ( SelfGenrated data and Random data )
-      	
-      
+
+# Task 7
+Titanic Data set:
+ * We did some basic informatic process's
+   	* Loading the Dataset
+   	* Checking the Statistical Parameter using .describe()
+   	* by using the .info() we able to see the data type , column name  and which column having missing values.
+   	* By using the .shape() we obatian the size of data
+* Data Preprocessing
+	* Data Proprocessing include Finding Missing Values
+	* Handling Missing values
+* Label Encoding
+  	* Label Encoding is used for convert the Categorical data into Numerical data or formate.
