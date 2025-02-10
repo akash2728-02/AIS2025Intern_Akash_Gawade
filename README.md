@@ -173,8 +173,8 @@ Titanic DataSet:
 
 # Task 9
 Iris DataSet
-* # for Handling data we used pandas and numpy
-* # To machine learning algorithm we used SciKit Learning Library
+* ### for Handling data we used pandas and numpy
+* ### To machine learning algorithm we used SciKit Learning Library
 * Loading Dataset using SciKit learning package
   	* Convert into pandas dataframe
 * Separate Dependent Variable and Independent Variable
