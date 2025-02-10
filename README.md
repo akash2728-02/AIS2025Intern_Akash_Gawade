@@ -149,3 +149,49 @@ Titanic Data set:
 	* Handling Missing values
 * Label Encoding
   	* Label Encoding is used for convert the Categorical data into Numerical data or formate.
+
+
+
+# Task 8
+Titanic DataSet:
+* Pre-Processing
+  	* Handling Missing values
+* Finding Qurtiles
+  	* Q1 and Q3
+  	* IQR
+* Using Tukeys Method for Outlier Detection
+  	* by using calculated IQR
+* Box Plot And Whisker Plot
+	* By using Seaborn and Matpllot Libraries
+* Z-Score
+  	* By using Scipy libarary
+* Standardization
+  	* Transform data into form having mean 0 and standard deviation 1.
+* MinMaxScalers
+* Principal Component Analysis
+  	* Reduce the data into minimum dimension
+
+# Task 9
+Iris DataSet
+* # for Handling data we used pandas and numpy
+* # To machine learning algorithm we used SciKit Learning Library
+* Loading Dataset using SciKit learning package
+  	* Convert into pandas dataframe
+* Separate Dependent Variable and Independent Variable
+* Splitting the dataset into Training and Testing sub-dataset.
+ 	* 80% of data used for training the model
+ 	* 20% of data used to test the model
+* Model Building
+  	* GaussianNB
+  	* BernoulliNB
+  	* MultinomialNB 
+* Training Models
+* Prediction
+* Accuracy Score
+  	* Our Data contain Continuous data values, So for continuous data, Our Gaussian Naive Bayes Models give the Best prediction, Meanwhile Bernoulli and Multinomial are not more suitable than the Gaussian model.
+	* Accuracy Score for each mode
+   		* GaussianNB Accuracy= 1.0
+       		* BernouliNB= 0.3
+           	* MultinomialNB Accuracy Score= 0.9
+
+
