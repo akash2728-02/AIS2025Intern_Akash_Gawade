@@ -195,3 +195,35 @@ Iris DataSet
            	* MultinomialNB Accuracy Score= 0.9
 
 
+# Task 10:
+Decision Tree
+### Theory:
+* A supervised ML algorithm for classification/regression.
+* A Decision Tree in statistics is a tree like structure having braches and nodes.
+* A tree have Main branch is Root Node, branches , and leaf node.
+* Every branch contain a spliying criterion.
+* Every Leaf node have class label like (Yes \ No), (0,1)
+
+## Entropy and GINI
+ Both are pliting criteriain
+ * Entropy :
+  		* Measure the Disorder
+  		* Entropy is Logarithmic Form
+    		* Slow to compute 
+      		* ![image](https://github.com/user-attachments/assets/d2c3e0a9-1b15-4ec7-941a-9ca7c3d8a80c)
+
+* GINI:
+ 		* Measures the probability of misclassification
+   		* Easy to Apply
+     		* Simple to Compute
+       		* ![image](https://github.com/user-attachments/assets/9637ef57-ec53-421c-a012-d708bad8d928)
+* Imorted from Sklearn.tree package
+* having same algorithm upto criterion
+  	* # Train Decision Tree using Gini criterion
+         dt_gini = DecisionTreeClassifier(criterion='gini', random_state=42)
+          dt_gini.fit(X_train, y_train)
+            y_pred_gini = dt_gini.predict(X_test)
+  	* # Train Decision Tree using Entropy criterion
+	   dt_entropy = DecisionTreeClassifier(criterion='entropy', random_state=42)
+	    dt_entropy.fit(X_train, y_train)
+	     y_pred_entropy = dt_entropy.predict(X_test)
