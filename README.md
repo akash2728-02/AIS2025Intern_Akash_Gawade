@@ -221,9 +221,13 @@ Decision Tree
 * having same algorithm upto criterion
   	* # Train Decision Tree using Gini criterion
          dt_gini = DecisionTreeClassifier(criterion='gini', random_state=42)
-          dt_gini.fit(X_train, y_train)
-            y_pred_gini = dt_gini.predict(X_test)
+  	  
+        dt_gini.fit(X_train, y_train)
+  	  
+        y_pred_gini = dt_gini.predict(X_test)
   	* # Train Decision Tree using Entropy criterion
 	   dt_entropy = DecisionTreeClassifier(criterion='entropy', random_state=42)
+
 	    dt_entropy.fit(X_train, y_train)
+  	  
 	     y_pred_entropy = dt_entropy.predict(X_test)
